@@ -1,6 +1,7 @@
+.ruff_cache/
 .venv/
 __pycache__/
-*.pyc
-.DS_Store
-*.pkl
-data/*.csv
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
